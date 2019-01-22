@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 backcall==0.1.0
 bleach==3.1.0
 colorama==0.4.1
@@ -36,3 +37,9 @@ tornado==5.1.1
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
+=======
+jupyterlab==0.35.4
+pandas==0.23.4
+matplotlib==3.0.2
+pandasql==0.7.3
+>>>>>>> b88b8d2080ff19955b7558a02e1f867a692f05c2
