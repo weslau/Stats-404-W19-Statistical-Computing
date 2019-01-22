@@ -103,15 +103,13 @@ for i in range(9):
     theBoard[move] = turn
     # insert break condition check if turn won the game
     if isWinner(theBoard, turn) == True:
-        f"the winner is {turn}"
-        f'test this'
+        printBoard(theBoard)
+        print("the winner is " + turn)
         break
 
     if turn == 'X':
         turn = 'O'
     else:
         turn = 'X'
-
-printBoard(theBoard)
 
 #time to test out all the functions individually in python and run the whole code (or do that first)
