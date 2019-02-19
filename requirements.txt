@@ -51,3 +51,5 @@ pandasql==0.7.3
 scikit-learn==0.20.2
 joblib==0.13.1
 >>>>>>> e3ff096ea562b93b99af7189615e3fec29ff7297
+dask==1.1.1
+dask[dataframe]

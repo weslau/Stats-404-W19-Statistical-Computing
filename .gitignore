@@ -5,9 +5,7 @@ Class2/.ipynb_checkpoints
 chinook.db
 chinook.sql
 chinook.zip
-<<<<<<< HEAD
 Envs/
-=======
 *.joblib
 Class3/.ipynb_checkpoints
->>>>>>> e3ff096ea562b93b99af7189615e3fec29ff7297
+Envs/*
